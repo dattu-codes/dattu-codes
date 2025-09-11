@@ -28,8 +28,8 @@
 ---
 
 ## 📫 Contact
-- Email: `your.email@example.com`  
-- LinkedIn: [linkedin.com/in/dattu-teella](https://linkedin.com/in/dattu-teella)  
+- Email: dattatreyateella@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/dattatreya-teella/  
 
 ---
 
