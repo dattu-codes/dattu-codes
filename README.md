@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Dattatreya Teella
 
-<!--
-**dattu-codes/dattu-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at VIT (Graduating 2026) | From Andhra Pradesh | 20 years old  
 
-Here are some ideas to get you started:
+💡 Passionate about **AI, Quantum Machine Learning, Deep Learning**, and **Computer Vision**.  
+💻 Experienced in **Python, PyTorch, Java, TensorFlow**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Programming Languages:** Python, Java  
+- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, QCNN, CNN  
+- **Computer Vision:** OpenCV, Image Processing, Gradio  
+- **Quantum Computing:** Pennylane, Quantum Neural Networks  
+- **Languages Known:** Telugu, English, Some Hindi  
+
+---
+
+## 🔹 Projects
+### [Brain Tumor Detection using QCNN](https://github.com/dattu-codes/brain-tumor-qcnn)
+- Hybrid **Quantum-Classical Convolutional Neural Network** for detecting brain tumors from MRI scans.  
+- Features full pipeline: **Data preprocessing, Model training, Evaluation, and Gradio-based inference interface**.  
+- Achieved improved classification accuracy over conventional CNNs.  
+- Tech Stack: Python, PyTorch, Pennylane, EfficientNet, Gradio  
+
+*(More projects coming soon…)*
+
+---
+
+## 📫 Contact
+- Email: `your.email@example.com`  
+- LinkedIn: [linkedin.com/in/dattu-teella](https://linkedin.com/in/dattu-teella)  
+
+---
+
+## ⚡ Fun Fact
+- Turning ideas into code 💻 | Always curious about emerging technologies | Lover of AI & Quantum Computing  
+
