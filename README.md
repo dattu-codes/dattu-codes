@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dattatreya Teella
 
-🎓 CS Student at VIT (Graduating 2026) | From Andhra Pradesh | 20 years old  
+🎓 CS Student at VIT (Graduating 2026) | From Andhra Pradesh | 21 years old  
 
 💡 Passionate about **AI, Quantum Machine Learning, Deep Learning**, and **Computer Vision**.  
 💻 Experienced in **Python, PyTorch, Java, TensorFlow**.  
