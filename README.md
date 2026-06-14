@@ -11,7 +11,7 @@
 ### 🚀 About Me
 I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) from **Vellore Institute of Technology (VIT)**. I am passionate about backend engineering, AI research, and combining the two to build scalable, high-impact systems. 
 
-* 🎓 **Education:** B.Tech in CSE @ VIT (CGPA: 7.45)
+* 🎓 **Education:** B.Tech in CSE @ VIT
 * 💡 **Primary Focus:** Backend Development (Java / Spring Boot) & AI / Machine Learning (Python / Deep Learning)
 * 🔬 **Research:** Co-authored and published an IEEE conference paper on Quantum Machine Learning (QCNN) for medical image classification
 * 🔍 **Looking for:** Software Engineer, Backend Developer, or AI/ML Engineer roles!
