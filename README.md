@@ -1,9 +1,15 @@
 # Hi there! I'm Dattatreya Teella 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dattatreya-teella/" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dattatreyateella@gmail.com" alt="Email" />
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/dattatreya-teella/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dattatreyateella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dattu-codes" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -69,12 +75,12 @@ I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) fr
 *   **Publication:** Research paper accepted for publication at an **IEEE Conference** (2025).
 *   **Tech Stack:** `Python`, `TensorFlow`, `PennyLane`, `EfficientNet`, `Gradio`
 
-#### 📋 [Task Manager API](https://github.com/dattu-codes/go-backend-task)
+#### 📋 [Task Manager API](https://github.com/dattu-codes/task-manager-api)
 *   **Description:** Developed a complete, scalable RESTful backend service for task tracking and management.
 *   **Key Results:** Implemented full CRUD capabilities using a structured Controller-Service-Repository layered architecture, ensuring high maintainability and test coverage with Postman.
 *   **Tech Stack:** `Java`, `Spring Boot`, `Hibernate/JPA`, `MySQL`, `REST API`, `Postman`
 
-#### 🏦 [Banking Management System](https://github.com/dattu-codes/Banking-Management-System)
+#### 🏦 [Banking Management System](https://github.com/dattu-codes/BankingSystem)
 *   **Description:** Simulated a real-world core banking system, supporting user registration, secure money transfers, interest calculations, and transaction logging.
 *   **Key Features:** Designed strictly around OOP principles for maximum modularity and reusability, with multi-threaded operations to simulate concurrent transactions safely.
 *   **Tech Stack:** `Java` (OOP, Collections, Multi-threading)
