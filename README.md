@@ -95,21 +95,6 @@ I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) fr
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=dattu-codes&show_icons=true&theme=radical&hides_limit=true" alt="GitHub Stats" height="180px" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattu-codes&layout=compact&theme=radical" alt="Top Languages" height="180px" /></td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattu-codes&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 *   **LinkedIn:** [dattatreya-teella](https://www.linkedin.com/in/dattatreya-teella/)
 *   **Email:** [dattatreyateella@gmail.com](mailto:dattatreyateella@gmail.com)
