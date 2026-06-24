@@ -41,6 +41,8 @@ I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) fr
     <td valign="top" width="50%">
       <h4>⚙️ Frameworks & Libraries</h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -55,6 +57,8 @@ I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) fr
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
       <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </td>
@@ -91,7 +95,7 @@ I am a recent **Computer Science & Engineering Graduate** (Class of May 2026) fr
 #### 🏦 [Banking Management System](https://github.com/dattu-codes/BankingSystem)
 *   **Description:** Simulated a real-world core banking system, supporting user registration, secure money transfers, interest calculations, and transaction logging.
 *   **Key Features:** Designed strictly around OOP principles for maximum modularity and reusability, with multi-threaded operations to simulate concurrent transactions safely.
-*   **Tech Stack:** `Java` (OOP, Collections, Multi-threading)
+*   **Tech Stack:** `Java`, `Spring Boot`, `Android SDK`, `H2 Database`, `Maven`, `Gradle`
 
 ---
 
