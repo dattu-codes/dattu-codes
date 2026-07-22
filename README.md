@@ -18,7 +18,7 @@ I am a **Computer Science & Engineering Graduate** (Class of 2026) from **Vellor
 
 I bridge the gap between **Generative AI models (Google Gemini, LLMs)** and **robust backend microservices (Python/FastAPI, Go, Java/Spring Boot)**. I build self-healing development tools, scalable transactional systems, and co-author peer-reviewed research in Quantum Machine Learning.
 
-* 🎓 **Education:** B.Tech in Computer Science & Engineering @ VIT (CGPA: 7.50)
+* 🎓 **Education:** B.Tech in Computer Science & Engineering @ VIT
 * 💡 **Core Expertise:** Agentic AI Frameworks, AST Code Analysis, Microservices, Transactional Backends & Cloud Architecture
 * 📜 **Certifications:** Oracle Certified Generative AI Professional | AWS Academy Graduate (Cloud Foundations & Architecting)
 * 🔬 **IEEE Research:** Co-authored & published a peer-reviewed IEEE paper on Quantum Machine Learning (QCNN) for medical image classification
